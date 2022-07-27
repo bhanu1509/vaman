@@ -1,0 +1,5 @@
+set_io s  64
+set_io r  62
+set_io q  60
+set_io clock 59
+
